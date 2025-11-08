@@ -8,7 +8,6 @@ __pycache__/
 *.egg
 .env
 venv/
-env/
 *.log
 
 *.dockerignore
@@ -27,4 +26,4 @@ tmp/              # folder temp Airflow DAGs
 requirements.txt
 step.txt
 
-/logs/
+logs/*
