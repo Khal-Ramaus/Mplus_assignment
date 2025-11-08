@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.egg-info/
+*.egg
+.env
+venv/
+env/
+*.log
+
+*.dockerignore
+docker-compose.override.yml
+docker-compose.override.yaml
+*.log
+*.pid
+*.sock
+*.out
+airflow.db        # local SQLite database (jika dipakai)
+logs/             # folder logs runtime Airflow
+tmp/              # folder temp Airflow DAGs
+*.pid             # PID file
+.vscode/
+.idea/
+requirements.txt
+step.txt
+
+/logs/
