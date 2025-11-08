@@ -6,7 +6,6 @@ __pycache__/
 *.swo
 *.egg-info/
 *.egg
-.env
 venv/
 *.log
 
