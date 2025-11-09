@@ -4,7 +4,7 @@ Repository ini berisi tentang proses **ETL (Extract-Transform-Load)** workflow m
 
 ---
 
-![Flow Chart M+ Software - Airflow Project](flow_chart.png)
+![Flow Chart M+ Software - Airflow Project](flow.png)
 
 
 ## Project Structure
